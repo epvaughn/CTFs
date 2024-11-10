@@ -8,10 +8,19 @@
 **#Level 1**\
 **#Retrieve password from readme file and use to ssh into bandit1**
 
-![Bandit0 Password Retrieval](image-1.png)
+![bandit0 password Retrieval](image-1.png)
 
 ![Passwords.txt](image-2.png)
 
 ![Bandit1](image-3.png)
 
-etc
+**#Level 2**\
+**#Retrieve the password from the - file, which is the password for bandit2. The trick here is knowing how to open a file that begins with -**
+
+![bandit2 password retrieval](image-4.png)
+
+**#Level 3**\
+**Retrieve password from "spaces in file name" which is stored on bandit2**
+
+![bandit3 password retrieval](image-5.png)
+
