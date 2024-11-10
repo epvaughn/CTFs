@@ -62,3 +62,10 @@
 **Retrieve password from the data.txt file that is one of the few human-readable strings, preceded by several '=' characters.**
 
 ![bandit9 password retrieval](image-14.png)
+
+**Level 11**\
+**Retrieve password from data.txt file that has been encoded in base64**
+
+![bandit10 password retrieval](image-15.png)
+
+**Level 12**\
