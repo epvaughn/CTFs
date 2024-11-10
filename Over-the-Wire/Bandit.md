@@ -58,7 +58,7 @@
 
 ![bandit8 password retrieval](image-13.png)
 
-**Level 9**\
+**Level 10**\
 **Retrieve password from the data.txt file that is one of the few human-readable strings, preceded by several '=' characters.**
 
 ![bandit9 password retrieval](image-14.png)
