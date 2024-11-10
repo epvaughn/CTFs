@@ -15,7 +15,7 @@
 ![Bandit1](image-3.png)
 
 **#Level 2**\
-**#Retrieve the password from the - file, which is the password for bandit2. The trick here is knowing how to open a file that begins with -**
+**#Retrieve the password from the - file, which is the password for bandit2. The trick here is knowing how to open a file that begins with -.**
 
 ![bandit2 password retrieval](image-4.png)
 
@@ -24,3 +24,26 @@
 
 ![bandit3 password retrieval](image-5.png)
 
+**#Level 4**\
+**Retrieve password from the hidden file stored in the inhere directory. Using the -a option on the ls command will reveal hidden files.**
+
+![bandit4 password retrieval](image-6.png)
+
+**Level 5**\
+**Retrieve password from the only human-readable file in the directory. The challenge here is determining the correct file. We can use the file command to print out file types for us**
+
+![file command](image-7.png)
+![bandit5 password retrieval](image-8.png)
+
+**Level 6**\
+**Retrieve password from the only human-readable, non executable, and 1033 bytes in size**
+
+![bandit6 password retrieval](image-9.png)
+
+**Level 7**\
+**Retrieve password stored somewhere on the server that is owned by user bandit7, owned by group bandit6, and 33 bytes in size.**
+
+![find command1](image-10.png)
+
+**use 2> /dev/null to filter out errors**
+![find command2](image-11.png)
