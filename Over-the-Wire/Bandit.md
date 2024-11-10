@@ -47,3 +47,18 @@
 
 **use 2> /dev/null to filter out errors**
 ![find command2](image-11.png)
+
+**Level 8**\
+**Retrieve password from the data.txt file where the password is next to the word millionth. We will use the grep command to find it.**
+
+![bandit7 password retrieval](image-12.png)
+
+**Level 9**\
+**Retrieve the only unique password from the data.txt file. This requires the use of the sort and uniq command**
+
+![bandit8 password retrieval](image-13.png)
+
+**Level 9**\
+**Retrieve password from the data.txt file that is one of the few human-readable strings, preceded by several '=' characters.**
+
+![bandit9 password retrieval](image-14.png)
